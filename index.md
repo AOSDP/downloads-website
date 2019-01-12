@@ -40,7 +40,7 @@ These build are old! Always use lastest one.
 
 <ul class="files-old">
     {% for file in site.files %}
-        {% if file.stable == old %}
+        {% if file.old == true %}
             <h1>{{ file.file_name }}</h1>
 
             <h4>Downloads</h4>
