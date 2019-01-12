@@ -1,5 +1,5 @@
 ---
-file_name: AOSDP-generic-20190112.img
+file_name: AOSDP-arm-a-20190112.img
 
 rom: AOSDP
 device: whyred
