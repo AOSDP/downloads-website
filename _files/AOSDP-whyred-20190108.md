@@ -4,7 +4,7 @@ file_name: AOSDP-whyred-20190108.zip
 rom: AOSDP
 device: whyred
 date: 20190108
-stable: false
+stable: old
 
 official: true
 builder: Thespartann
