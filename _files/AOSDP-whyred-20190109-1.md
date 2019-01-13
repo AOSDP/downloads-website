@@ -4,7 +4,7 @@ file_name: AOSDP-whyred-20190109.zip (second build)
 rom: AOSDP
 device: whyred
 date: 20190109
-old: false
+archived: false
 stable: false
 
 official: true
