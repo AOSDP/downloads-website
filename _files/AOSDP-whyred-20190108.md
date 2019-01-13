@@ -4,7 +4,6 @@ file_name: AOSDP-whyred-20190108.zip
 rom: AOSDP
 device: whyred
 date: 20190108
-stable: false
 old: true
 
 official: true
