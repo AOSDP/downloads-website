@@ -11,4 +11,4 @@ builder: peaktogoo
 ---
 <!-- Insert downloads here: -->
 
-* [Coming soon](https://aosdp.com/)
+* [MEGA.nz](https://mega.nz/#!zzpUzSrT!kU6lmhOa1BETxPNBoZ_0Mz77f9zriinY-zPVVOHJ6ag)
