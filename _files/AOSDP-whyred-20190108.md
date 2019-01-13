@@ -5,6 +5,7 @@ rom: AOSDP
 device: whyred
 date: 20190108
 old: true
+stable: false
 
 official: true
 builder: Thespartann
