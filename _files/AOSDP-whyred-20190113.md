@@ -1,5 +1,5 @@
 ---
-file_name: AOSDP-whyred-20190109.zip (second build)
+file_name: AOSDP-9.0-Alpha-whyred-20190113.zip
 
 rom: AOSDP
 device: whyred
