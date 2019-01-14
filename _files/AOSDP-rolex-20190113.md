@@ -1,5 +1,5 @@
 ---
-file_name: AOSDP-rolex-20190113.zip
+file_name: AOSDP-9.0-Alpha-rolex-20190113.zip
 
 rom: AOSDP
 device: rolex
