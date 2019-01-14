@@ -1,5 +1,5 @@
 ---
-title: GSI Downloads
+title: GSI
 permalink: /gsi/
 layout: page
 ---
