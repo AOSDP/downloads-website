@@ -27,9 +27,10 @@ Warning! These files may be unstable. Please report any problems to our [Telegra
         {% if file.stable == false and file.archived == false and file.gsi == false %}
             <h1>{{ file.file_name }}</h1>
 
-            <h4>Downloads</h4>
+	    <h4>Downloads</h4>
 
             {{ file.content | markdownify }}
+	          <h5>Maintainer : {{ file.maintainer }}</h5>
         {% endif %}
 	{% endfor %}
 </ul>
