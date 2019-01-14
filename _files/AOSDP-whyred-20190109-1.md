@@ -4,8 +4,9 @@ file_name: AOSDP-whyred-20190109.zip (second build)
 rom: AOSDP
 device: whyred
 date: 20190109
-archived: false
+archived: true
 stable: false
+gsi: false
 
 official: true
 builder: Thespartann

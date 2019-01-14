@@ -6,6 +6,7 @@ device: generic_arm_a
 date: 20190112
 archived: false
 stable: false
+gsi: true
 
 official: true
 builder: peaktogoo
