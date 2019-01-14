@@ -4,18 +4,32 @@ permalink: /gsi/
 layout: page
 ---
 
-These build are GSI (Generic System Image) and will not always be stable.
+# Stable
 
-<ul class="files-gsi">
+<ul class="files-stable">
     {% for file in site.files %}
-        {% if file.gsi == true %}
+        {% if file.stable == true and file.gsi == true %}
             <h1>{{ file.file_name }}</h1>
 
-            Stable: {{ file.stable }}
+            <h4>Downloads</h4>
+            
+            {{ file.content | markdownify }}
+        {% endif %}
+    {% endfor %}
+</ul>
+
+# Testing
+
+Warning! These files may be unstable. Please report any problems to our [Telegram group](https://t.me/AOSDPx/39).
+
+<ul class="files-unstable">
+    {% for file in site.files %}
+        {% if file.stable == false and file.gsi == true %}
+            <h1>{{ file.file_name }}</h1>
 
             <h4>Downloads</h4>
 
             {{ file.content | markdownify }}
         {% endif %}
-    {% endfor %}
+	{% endfor %}
 </ul>
