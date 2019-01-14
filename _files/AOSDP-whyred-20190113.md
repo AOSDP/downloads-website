@@ -14,4 +14,4 @@ builder: Thespartann
 
 <!-- Insert downloads here: -->
 
-* [ams01.downloads.aosdp.com](https://ams01.downloads.aosdp.com/AOSDP-whyred-20190113/) (direct)
+* [Direct Download](https://ams01.downloads.aosdp.com/AOSDP-9.0-Alpha-whyred-20190113/)
