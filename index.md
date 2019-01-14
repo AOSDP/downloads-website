@@ -8,7 +8,7 @@ layout: page
 
 <ul class="files-stable">
     {% for file in site.files %}
-        {% if file.stable == true and file.archived == false and file.gsi == false%}
+        {% if file.stable == true and file.archived == false %}
             <h1>{{ file.file_name }}</h1>
 
             <h4>Downloads</h4>
@@ -24,7 +24,7 @@ Warning! These files may be unstable. Please report any problems to our [Telegra
 
 <ul class="files-unstable">
     {% for file in site.files %}
-        {% if file.stable == false and file.archived == false and file.gsi == false%}
+        {% if file.stable == false and file.archived == false and file.gsi == flse%}
             <h1>{{ file.file_name }}</h1>
 
             <h4>Downloads</h4>
