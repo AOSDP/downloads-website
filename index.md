@@ -30,7 +30,7 @@ Warning! These files may be unstable. Please report any problems to our [Telegra
 	    <h4>Downloads</h4>
 
             {{ file.content | markdownify }}
-	          <h5>Maintainer : {{ file.maintainer }}</h5>
+	          <h5>Maintainer : {{ file.builder }}</h5>
         {% endif %}
 	{% endfor %}
 </ul>
