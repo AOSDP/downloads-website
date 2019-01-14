@@ -8,7 +8,7 @@ layout: page
 
 <ul class="files-stable">
     {% for file in site.files %}
-        {% if file.stable == true and file.archived == false and file.archived == false%}
+        {% if file.stable == true and file.archived == false and file.gsi == false%}
             <h1>{{ file.file_name }}</h1>
 
             <h4>Downloads</h4>
