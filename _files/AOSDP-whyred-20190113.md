@@ -11,7 +11,6 @@ gsi: false
 official: true
 builder: Thespartann
 ---
-<!-- Build 2 of this day -->
 
 <!-- Insert downloads here: -->
 
