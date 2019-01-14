@@ -37,3 +37,7 @@ Warning! These files may be unstable. Please report any problems to our [Telegra
 # For older build
 
 Please head to the archived section, [Archived](https://downloads.aosdp.com/archive/).
+
+# For the GSI (Generic System Image)
+
+Please head to the GSI section, [GSI](https://downloads.aosdp.com/gsi/).
