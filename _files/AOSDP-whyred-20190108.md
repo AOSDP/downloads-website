@@ -6,6 +6,7 @@ device: whyred
 date: 20190108
 archived: true
 stable: false
+gsi: false
 
 official: true
 builder: Thespartann
