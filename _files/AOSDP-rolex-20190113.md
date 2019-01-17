@@ -14,4 +14,4 @@ builder: Thespartann
 
 <!-- Insert downloads here: -->
 
-* [Direct Download](https://ams01.downloads.aosdp.com/AOSDP-9.0-Alpha-rolex-20190113/)
+* [Direct Download](https://par01.downloads.aosdp.com/AOSDP-9.0-Alpha-rolex-20190113/)

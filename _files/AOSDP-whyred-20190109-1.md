@@ -15,4 +15,4 @@ builder: Thespartann
 
 <!-- Insert downloads here: -->
 
-* [ams01.downloads.aosdp.com](https://ams01.downloads.aosdp.com/AOSDP-whyred-20190109-1/) (direct)
+* [par01.downloads.aosdp.com](https://par01.downloads.aosdp.com/AOSDP-whyred-20190109-1/) (direct)
