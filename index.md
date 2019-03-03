@@ -36,6 +36,10 @@ Warning! These files may be unstable. Please report any problems to our [Telegra
 	{% endfor %}
 </ul>
 
+# Other builds
+
+Other builds that haven't yet been added here can be found from <a href="https://par01.downloads.aosdp.com">here</a>.
+
 # For older build
 
 Please head to the archived section, [Archived](https://downloads.aosdp.com/archive/).
