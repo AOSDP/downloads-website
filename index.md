@@ -38,9 +38,9 @@ Warning! These files may be unstable. Please report any problems to our [Telegra
 
 # Other builds
 
-<iframe src="https://ams01.downloads.aosdp.com/?iframe=true&ignore={% for file in site.files %}{% if file.gsi == false %}{{ file.file_name|replace:'.zip'}},{% endif %}{% endfor %}gsi" style="width: 100%; height: 500px;" frameborder="0">
+<iframe src="https://ams01.downloads.aosdp.com/?iframe=true&ignore={% for file in site.files %}{% if file.gsi == false %}{{ file.file_name|replace:'.zip'}},{% endif %}{% endfor %}gsi" style="width: 100%; height: 500px;" frameborder="0"></iframe>
 
-Other builds that haven't yet been added here can be found from <a href="https://par01.downloads.aosdp.com">here</a>.
+<small><a href="https://par01.downloads.aosdp.com">View in full screen</a></small>
 
 # For older build
 
